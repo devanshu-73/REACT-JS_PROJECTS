@@ -1,0 +1,55 @@
+{
+  "user": [
+    {
+      "username": "Devanshu",
+      "email": "devanshuchauhan732000@gmail.com",
+      "phone": "421123124",
+      "password": "1111",
+      "id": "1695560554307"
+    },
+    {
+      "username": "yash",
+      "email": "devanshuchauhan732000@gmail.com",
+      "phone": "234221",
+      "password": "1111",
+      "id": "1695562160336"
+    }
+  ],
+  "order": [
+    {
+      "id": 1,
+      "order_no": "853",
+      "username": "jay",
+      "rooms": "junior suite",
+      "price": 2000
+    }
+  ],
+  "product": [
+    {
+      "hotelType": "Junior Suite Room",
+      "price": "Rs. 7000",
+      "id": 1
+    }
+  ],
+  "contact": [
+    {
+      "name": "ecw",
+      "email": "devanshuchauhan732000@gmail.com",
+      "subject": "cewcew",
+      "message": "efcewcew",
+      "id": "1695285198894"
+    }
+  ],
+  "admin": [
+    {
+      "id": 1,
+      "name": "admin1",
+      "password": "1234"
+    },
+    {
+      "id": 2,
+      "name": "admin2",
+      "password": "1234"
+    }
+  ]
+}
