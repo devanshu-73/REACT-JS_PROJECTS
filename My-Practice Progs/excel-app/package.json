@@ -10,8 +10,12 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "handsontable": "^14.3.0",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "react-handsontable": "^0.3.2",
+    "react-tabs": "^6.0.2",
+    "xlsx": "^0.18.5"
   },
   "devDependencies": {
     "@types/react": "^18.2.66",
