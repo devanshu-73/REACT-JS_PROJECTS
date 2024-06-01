@@ -1,4 +1,3 @@
-// src/components/FileUpload.js
 import React from 'react';
 
 const FileUpload = ({ onFileUpload }) => {
